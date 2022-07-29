@@ -1,0 +1,25 @@
+{
+  "name": "profilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEO1984/profileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEO1984/profileGenerator/issues"
+  },
+  "homepage": "https://github.com/MEO1984/profileGenerator#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "html-pdf": "^3.0.1",
+    "inquirer": "^9.0.2"
+  }
+}
